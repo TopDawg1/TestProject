@@ -19,7 +19,7 @@ namespace GitHubTestProject
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            this.Text = "Welcome";
+            this.Text = "Welcome!";
         }
     }
 }
