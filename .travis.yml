@@ -1,0 +1,4 @@
+language: csharp
+solution: GitHubTestProject.sln
+script: 
+- xbuild TestingoutGitHub/GitHubTestProject.Configuration p: GitHubTestProject.sln
